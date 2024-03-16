@@ -31,4 +31,9 @@ public class TrainingApplication {
 
 	// Удаляю метод public static String rowByIldus4() в качеситве хот фикса
 
+	// git training
+
+	// learning git
+
+	// mastering git
 }
