@@ -22,4 +22,10 @@ public class TrainingApplication {
 	public static String getRawByRustem () {
 		return "Строка 2";
 	}
+
+	// git training
+
+	// learning git
+
+	// mastering git
 }
