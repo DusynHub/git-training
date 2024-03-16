@@ -16,4 +16,12 @@ public class TrainingApplication {
 		return "Строка 1";
 	}
 
+	public static String rowByIldus2(){
+		return "Строка 2";
+	}
+
+	public static String rowByIldus4(){
+		return "Строка 4";
+	}
+
 }
