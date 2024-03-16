@@ -13,7 +13,6 @@ public class TrainingApplication {
 		System.out.println(rowByIldus());
 		System.out.println(getRawByRustem());
 		System.out.println(rowByIldus3());
-		System.out.println(rowByIldus4());
 	}
 
 	public static String rowByIldus() {
@@ -27,13 +26,10 @@ public class TrainingApplication {
 
 
 	public static String rowByIldus3() {
-		return "Строка 3";
+		return "Изменяю строку 3 в качестве хот фикса";
 	}
 
-
-	public static String rowByIldus4() {
-		return "Строка 4";
-	}
+	// Удаляю метод public static String rowByIldus4() в качеситве хот фикса
 
 	// git training
 
